@@ -40,7 +40,7 @@ const HeroSection = () => {
               <div className="flex-1 relative">
                 <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
                 <Input 
-                  placeholder="Buscar por localização, tipo de imóvel..."
+                  placeholder="Buscar por seu imovel..."
                   className="pl-12 h-12 bg-white border-0 text-gray-900 placeholder:text-gray-500"
                 />
               </div>
